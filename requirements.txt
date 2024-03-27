@@ -1,0 +1,4 @@
+pygame==2.5.2
+requests==2.31.0
+lxml==5.1.0
+dearpygui==1.11.1
