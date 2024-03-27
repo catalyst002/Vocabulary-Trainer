@@ -15,7 +15,7 @@ The application harnesses the power of the Wordnik API to fetch audio pronunciat
 ## Getting Started
 # To get started with the Vocabulary Trainer:
 
-1.Ensure you have Python installed on your system.
-2.Clone the repository and navigate to the application directory.
-3.Install the required dependencies listed in requirements.txt.
-4.Run the application with python vocabulary_trainer.py.
+1.Ensure you have Python installed on your system. \
+2.Clone the repository and navigate to the application directory. \
+3.Install the required dependencies listed in requirements.txt. \ 
+4.Run the application with python vocabulary_trainer.py. \
